@@ -23,6 +23,9 @@ public class ClaseAnidada {
 
     public String salida(int d) {
         System.out.println("Salida.");
+        System.out.println("Estoy trabajando");
+        
+        System.out.println("Sigo añadiendo lineas");
         return "Salida el " + d;
     }
     
