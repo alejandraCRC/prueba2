@@ -26,6 +26,8 @@ public class ClaseAnidada {
         System.out.println("Estoy trabajando");
         
         System.out.println("Sigo añadiendo lineas");
+        
+        System.out.println("This is new advances on the new release");
         return "Salida el " + d;
     }
     
