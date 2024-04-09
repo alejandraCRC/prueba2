@@ -28,6 +28,8 @@ public class ClaseAnidada {
         System.out.println("Sigo añadiendo lineas");
         
         System.out.println("This is new advances on the new release");
+        
+        System.out.println("This is the bug fix for release 1.0");
         return "Salida el " + d;
     }
     
